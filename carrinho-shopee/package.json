@@ -1,0 +1,16 @@
+{
+  "name": "carrinho-shopee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joseuserdev",
+  "license": "ISC",
+  "description": "projeto simulando carrinho de compras da shopee feito utilizando node",
+  "devDependencies": {
+    "express": "^5.1.0"
+  }
+}
