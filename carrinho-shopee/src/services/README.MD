@@ -17,13 +17,15 @@ DIO-node.js/ ├── src/ │   ├── index.js               # Arquivo pri
 ## 🚀 Como Executar
 
 1. Clone o repositório:
+se estiver em seu ambiente de desenvolvimento...
    ```bash
-   git clone https://github.com/seu-usuario/shopee-cart.git
-   cd shopee-cart/src
+   git clone https://github.com/seu-usuario/carrinho-shopee.git
+   cd  carrinho-shopee
 
    - Execute o projeto com Node.js:
-      --{node index.js} 
+      --{node src/index.js} para executar o arquivo principal do projeto.
 
+2. ou na barra superior deste repositorio de um fork para gerar uma copia deste projeto em seu proprio repositorio remoto.
 
     ## 💡 Objetivo
 
